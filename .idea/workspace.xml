@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b39e5084-8de5-444c-8ef3-0a36ffcc506c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Halloween.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ratsasan.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scary.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flappy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,9 +34,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Flappy.executor": "Run",
     "Python.Halloween.executor": "Run",
     "Python.main.executor": "Run",
     "Python.main2.executor": "Run",
+    "Python.predict.executor": "Run",
     "Python.virtualfriend.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
